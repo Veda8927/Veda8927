@@ -2,7 +2,7 @@
 
 # Veda
 
-**Data Analytics Engineer**
+**Data Analytics Engineer**<br>
 <sub>I turn messy data into decisions — sometimes that's a dashboard, sometimes the whole app.</sub>
 
 [Portfolio](https://vedavyasmuddati.com)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/vedavyas-muddati)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:vedavyasmuddati@gmail.com)
