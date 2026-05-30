@@ -21,11 +21,11 @@
 
 ### Things I've built
 
-🔹 **[billgo-analytics-engineer](https://github.com/Veda8927/billgo-analytics-engineer)** &nbsp;·&nbsp; found **$138K** of wasted ad spend hiding in 351K payments. fixed it.
+**[billgo-analytics-engineer](https://github.com/Veda8927/billgo-analytics-engineer)** — found **$138K** of wasted ad spend hiding in 351K payments. fixed it.
 
-🔹 **[handpick](https://github.com/Veda8927/handpick)** &nbsp;·&nbsp; a whole marketplace, built solo in **12 days**. caffeine assisted.
+**[handpick](https://github.com/Veda8927/handpick)** — a whole marketplace, built solo in **12 days**. caffeine assisted.
 
-🔹 **[sql-practice](https://github.com/Veda8927/sql-practice)** &nbsp;·&nbsp; a SQL tutor that grades you, then explains like you're five when you give up.
+**[sql-practice](https://github.com/Veda8927/sql-practice)** — a SQL tutor that grades you, then explains like you're five when you give up.
 
 <br>
 
