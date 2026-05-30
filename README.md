@@ -3,40 +3,46 @@
 # Vedavyas Muddati
 
 **Data Analytics Engineer** &nbsp;·&nbsp; turning data into decisions
+📍 Fort Collins, CO
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://vedavyasmuddati.com)
-&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedavyas-muddati)
-&nbsp;[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:vedavyasmuddati@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3A7AAD?style=flat-square&logo=vercel&logoColor=white)](https://vedavyasmuddati.com)
+&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A7AAD?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedavyas-muddati)
+&nbsp;[![Email](https://img.shields.io/badge/Email-3A7AAD?style=flat-square&logo=gmail&logoColor=white)](mailto:vedavyasmuddati@gmail.com)
 
 </div>
 
 <br>
 
-I build the data pipelines and analytics products businesses run on — unit economics, scorecards, and the SQL underneath them. At **Palette Labs** (parent of Nosh Delivery) I cut monthly operating loss **$27K → $4.5K** in six months with the company's first validated CAC/LTV model, shipped a **15-metric KPI scorecard** for weekly leadership reviews, and put **40+ production SQL reports** in front of 5 teams.
+I build the data pipelines and analytics products businesses run on — unit economics, scorecards, and the SQL underneath them. At **Palette Labs** (parent of Nosh Delivery) I cut monthly operating loss **$27K → $4.5K** in six months with the company's first validated CAC/LTV model, shipped a **15-metric KPI scorecard** for weekly leadership reviews, and put **40+ production SQL reports** in front of 5 teams. MS in Computer Information Systems, Colorado State.
 
 <br>
 
 ### Stack
 
-![SQL](https://img.shields.io/badge/Advanced_SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=white)
-&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=white)
-&nbsp;&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-0D1117?style=flat-square&logo=looker&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-0D1117?style=flat-square&logo=metabase&logoColor=white)
-&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+**Languages**  
+![SQL](https://img.shields.io/badge/Advanced_SQL-3A7AAD?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A7AAD?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3A7AAD?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-3A7AAD?style=flat-square&logo=gnubash&logoColor=white)
+
+**Data &amp; Transformation**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3A7AAD?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-3A7AAD?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-3A7AAD?style=flat-square&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-3A7AAD?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-3A7AAD?style=flat-square&logo=apacheairflow&logoColor=white)
+
+**Analytics &amp; BI**  
+![Tableau](https://img.shields.io/badge/Tableau-3A7AAD?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-3A7AAD?style=flat-square&logo=powerbi&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-3A7AAD?style=flat-square&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-3A7AAD?style=flat-square&logo=metabase&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-3A7AAD?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-3A7AAD?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-3A7AAD?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A7AAD?style=flat-square&logo=docker&logoColor=white)
 
 <br>
 
